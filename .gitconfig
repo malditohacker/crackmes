@@ -1,0 +1,24 @@
+[user]
+	name = Maldito Hacker
+	email = esemalditohacker@gmail.com
+	username = malditohacker
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
+[github]
+	user = malditohacker
+[alias]
+	c = commit
+	#############
+	cl = clone
+	#############
+	cp = cherry-pick
+	#############
+	d = diff
+	#############
+	f = fetch
+	fo = fetch origin
+	fu = fetch upstream
+	#############
+	s = status
+	#############

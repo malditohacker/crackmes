@@ -1,8 +1,10 @@
-Author:  
-exzettabyte
+# Just See
 
-Language:  
-C/C++
+#### Author:  
+- exzettabyte
 
-Platform:  
-Unix/linux
+#### Language:
+- C/C++
+
+#### Platform:
+- Unix/linux

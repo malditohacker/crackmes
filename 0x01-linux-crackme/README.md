@@ -1,10 +1,10 @@
 # linux_crackme
-#### Author:  
+#### Autor:  
 - cyrex
 
-#### Language:
+#### Lenguaje:
 - C/C++
 
-#### Platform:
+#### Platforma:
 - Unix/linux
 

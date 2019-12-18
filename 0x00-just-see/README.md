@@ -1,10 +1,10 @@
-# Easy Peasy
+# Just See
 
 #### Author:  
-- whitecr0w
+- exzettabyte
 
 #### Language:
 - C/C++
 
 #### Platform:
-- Windows
+- Unix/linux
